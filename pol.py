@@ -3,3 +3,5 @@ def palindrome(st):
 		return True
 	else:
 		return False
+
+print(palindrome("шалаш"))
